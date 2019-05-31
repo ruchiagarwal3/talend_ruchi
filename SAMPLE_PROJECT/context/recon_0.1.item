@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_G-qlMHIwEemL9YUacuDL6g" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_G-rzUHIwEemL9YUacuDL6g" comment="" name="Records_read" prompt="Records_read?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_G-saYHIwEemL9YUacuDL6g" comment="" name="Records_write" prompt="Records_write?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_G-rzUHIwEemL9YUacuDL6g" comment="" name="Records_read1" prompt="Records_read1?" promptNeeded="false" type="id_Integer" value="5"/>
+</talendfile:ContextType>
